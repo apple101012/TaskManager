@@ -1,0 +1,17 @@
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.exe
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.deps.json
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.runtimeconfig.json
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.dll
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.pdb
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.Form1.resources
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.csproj.GenerateResource.cache
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.AssemblyInfoInputs.cache
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.AssemblyInfo.cs
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.sourcelink.json
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.dll
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\obj\Debug\net8.0-windows\refint\TaskManager.dll
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.pdb
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.genruntimeconfig.cache
+C:\Users\BootlegRyzen\Documents\GitHub\TaskManager\TaskManager\TaskManager\obj\Debug\net8.0-windows\ref\TaskManager.dll

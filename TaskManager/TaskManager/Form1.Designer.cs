@@ -28,12 +28,62 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            dataGridView1 = new DataGridView();
+            btnRefresh = new Button();
+            endBtn = new Button();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            SuspendLayout();
+            // 
+            // dataGridView1
+            // 
+            dataGridView1.BackgroundColor = Color.Black;
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(1, 2);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.Size = new Size(796, 333);
+            dataGridView1.TabIndex = 0;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
+            // 
+            // btnRefresh
+            // 
+            btnRefresh.Location = new Point(12, 398);
+            btnRefresh.Name = "btnRefresh";
+            btnRefresh.Size = new Size(75, 23);
+            btnRefresh.TabIndex = 1;
+            btnRefresh.Text = "Refresh";
+            btnRefresh.UseVisualStyleBackColor = true;
+            btnRefresh.Click += btnRefresh_Click;
+            // 
+            // endBtn
+            // 
+            endBtn.Location = new Point(118, 398);
+            endBtn.Name = "endBtn";
+            endBtn.Size = new Size(116, 23);
+            endBtn.TabIndex = 2;
+            endBtn.Text = "End Process";
+            endBtn.UseVisualStyleBackColor = true;
+            endBtn.Click += endBtn_Click;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.Black;
+            ClientSize = new Size(800, 450);
+            Controls.Add(endBtn);
+            Controls.Add(btnRefresh);
+            Controls.Add(dataGridView1);
+            Name = "Form1";
+            Text = "Simple Task Manager";
+            Load += Form1_Load;
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private DataGridView dataGridView1;
+        private Button btnRefresh;
+        private Button endBtn;
     }
 }

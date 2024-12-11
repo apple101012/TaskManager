@@ -101,5 +101,4 @@ The Simple Task Manager is a lightweight and easy-to-use application that simpli
 
 ---
 
-**GitHub Repository**: [https://github.com/yourusername/simple-task-manager](https://github.com/yourusername/simple-task-manager)
 

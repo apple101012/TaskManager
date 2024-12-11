@@ -67,7 +67,7 @@ Additionally, I wanted to create a simple but powerful tool that focused on proc
 - **Main Interface**: Displays the list of currently running processes with a modern dark theme.
 - **Restart Explorer Button**: A quick way to fix buggy desktop or taskbar behavior.
 
-(Add screenshots here.)
+![Task Manager Demo](./assets/SimpleTaskManager.gif)
 
 ---
 

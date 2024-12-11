@@ -52,11 +52,7 @@ Additionally, I wanted to create a simple but powerful tool that focused on proc
 
 ## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/simple-task-manager.git
-   cd simple-task-manager
-   ```
+1. Clone the repository
 
 2. Open the project in **Visual Studio**.
 
